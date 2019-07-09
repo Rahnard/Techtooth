@@ -1,0 +1,25 @@
+#st-background{
+    color: blue;
+    min-height: 500px;
+    position: relative;
+    background: url('../img/maxresdefault.jpg') no-repeat 0 -400px ;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+
+#Boxes {
+    margin-top: 20px;
+    
+}
+
+#Boxes .box{
+    text-align: justify;
+    font-size: 15px;
+    float: left;
+    width: 30%;
+    padding: 15px;
+}
